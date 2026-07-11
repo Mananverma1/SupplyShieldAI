@@ -1,0 +1,21 @@
+complaint_id,store_id,product_id,date,severity,description
+CMP-000,ST-003,PRD-006,2026-07-05,High,Customer reported issue.
+CMP-001,ST-011,PRD-001,2026-07-08,Low,Customer reported issue.
+CMP-002,ST-010,PRD-011,2026-07-05,Low,Customer reported issue.
+CMP-003,ST-004,PRD-004,2026-07-09,Low,Customer reported issue.
+CMP-004,ST-013,PRD-005,2026-07-08,High,Customer reported issue.
+CMP-005,ST-004,PRD-014,2026-07-03,Medium,Customer reported issue.
+CMP-006,ST-008,PRD-016,2026-07-03,Medium,Customer reported issue.
+CMP-007,ST-015,PRD-007,2026-07-04,High,Customer reported issue.
+CMP-008,ST-003,PRD-007,2026-07-07,High,Customer reported issue.
+CMP-009,ST-009,PRD-015,2026-07-03,High,Customer reported issue.
+CMP-010,ST-001,PRD-013,2026-07-10,Low,Customer reported issue.
+CMP-011,ST-004,PRD-020,2026-07-07,Low,Customer reported issue.
+CMP-012,ST-008,PRD-013,2026-07-07,Low,Customer reported issue.
+CMP-013,ST-004,PRD-001,2026-07-04,Low,Customer reported issue.
+CMP-014,ST-005,PRD-007,2026-07-05,High,Customer reported issue.
+CMP-015,ST-008,PRD-017,2026-07-04,High,Customer reported issue.
+CMP-016,ST-012,PRD-015,2026-07-07,High,Customer reported issue.
+CMP-017,ST-003,PRD-009,2026-07-08,High,Customer reported issue.
+CMP-018,ST-008,PRD-001,2026-07-02,High,Customer reported issue.
+CMP-019,ST-007,PRD-008,2026-07-08,High,Customer reported issue.

@@ -1,0 +1,8 @@
+streamlit
+pandas
+networkx
+plotly
+pyvis
+matplotlib
+reportlab
+faker

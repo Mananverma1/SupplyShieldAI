@@ -1,0 +1,4 @@
+- [x] Inspect risk analysis signals column implementation
+- [x] Replace current emoji-based signals with professional symbol set (icons per signal type)
+- [ ] Apply styling so symbols are easy to scan in the Risk Analysis table
+- [ ] Run a quick Streamlit lint/check (if available)
